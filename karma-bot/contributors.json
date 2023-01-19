@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-19T17:05:27.489001+0000",
+  "timestamp_last_update": "2023-01-19T17:06:06.564219+0000",
   "data": [
     {
       "discord_id": 843774090380443668,
@@ -12,9 +12,14 @@
     {
       "discord_id": 776520842070720514,
       "discord_name": "Paulito#0564",
-      "address": "5f8ac83a9b3bf2eff20a6c16cd05c111",
+      "address": "2bfd96d8a674a360b733d16c65728d72",
       "twitter_handle": "https://twitter.com/paulito",
-      "history": null,
+      "history": [
+        {
+          "address": "5f8ac83a9b3bf2eff20a6c16cd05c111",
+          "timestamp_end": "2023-01-19T17:06:06"
+        }
+      ],
       "is_active": 1
     }
   ]
