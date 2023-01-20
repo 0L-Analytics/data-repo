@@ -1,14 +1,6 @@
 {
-  "timestamp_last_update": "2023-01-19T17:06:06.564219+0000",
+  "timestamp_last_update": "2023-01-20T11:01:29.800254+0000",
   "data": [
-    {
-      "discord_id": 843774090380443668,
-      "discord_name": "Wally#8500",
-      "address": null,
-      "twitter_handle": null,
-      "history": null,
-      "is_active": 1
-    },
     {
       "discord_id": 776520842070720514,
       "discord_name": "Paulito#0564",
@@ -21,6 +13,14 @@
         }
       ],
       "is_active": 1
+    },
+    {
+      "discord_id": 843774090380443668,
+      "discord_name": "Wally#8500",
+      "address": null,
+      "twitter_handle": null,
+      "history": null,
+      "is_active": 0
     }
   ]
 }
