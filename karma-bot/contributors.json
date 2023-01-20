@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-20T11:01:29.800254+0000",
+  "timestamp_last_update": "2023-01-20T11:34:42.457818+0000",
   "data": [
     {
       "discord_id": 776520842070720514,
@@ -20,7 +20,7 @@
       "address": null,
       "twitter_handle": null,
       "history": null,
-      "is_active": 0
+      "is_active": 1
     }
   ]
 }
