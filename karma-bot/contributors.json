@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-20T11:34:42.457818+0000",
+  "timestamp_last_update": "2023-01-21T04:45:45.499103+0000",
   "data": [
     {
       "discord_id": 776520842070720514,
@@ -17,6 +17,14 @@
     {
       "discord_id": 843774090380443668,
       "discord_name": "Wally#8500",
+      "address": null,
+      "twitter_handle": null,
+      "history": null,
+      "is_active": 1
+    },
+    {
+      "discord_id": 1066212981878308914,
+      "discord_name": "Pabl0Escr0wBar#5623",
       "address": null,
       "twitter_handle": null,
       "history": null,
