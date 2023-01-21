@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-21T04:45:45.499103+0000",
+  "timestamp_last_update": "2023-01-21T04:55:28.661079+0000",
   "data": [
     {
       "discord_id": 776520842070720514,
@@ -25,8 +25,8 @@
     {
       "discord_id": 1066212981878308914,
       "discord_name": "Pabl0Escr0wBar#5623",
-      "address": null,
-      "twitter_handle": null,
+      "address": "012338b54ba4625adcc313394d87819c",
+      "twitter_handle": "",
       "history": null,
       "is_active": 1
     }
