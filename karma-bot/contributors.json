@@ -1,39 +1,4 @@
 {
-  "timestamp_last_update": "2023-01-21T04:56:58.441265+0000",
-  "data": [
-    {
-      "discord_id": 776520842070720514,
-      "discord_name": "Paulito#0564",
-      "address": "2bfd96d8a674a360b733d16c65728d72",
-      "twitter_handle": "https://twitter.com/paulito",
-      "history": [
-        {
-          "address": "5f8ac83a9b3bf2eff20a6c16cd05c111",
-          "timestamp_end": "2023-01-19T17:06:06"
-        }
-      ],
-      "is_active": 1
-    },
-    {
-      "discord_id": 843774090380443668,
-      "discord_name": "Wally#8500",
-      "address": null,
-      "twitter_handle": null,
-      "history": null,
-      "is_active": 1
-    },
-    {
-      "discord_id": 1066212981878308914,
-      "discord_name": "Pabl0Escr0wBar#5623",
-      "address": "2bfd96d8a674a360b733d16c65728d72",
-      "twitter_handle": "",
-      "history": [
-        {
-          "address": "012338b54ba4625adcc313394d87819c",
-          "timestamp_end": "2023-01-21T04:56:58"
-        }
-      ],
-      "is_active": 1
-    }
-  ]
+  "timestamp_last_update": "2023-01-01T00:00:00.000000+0000",
+  "data": []
 }
