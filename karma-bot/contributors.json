@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-21T04:55:28.661079+0000",
+  "timestamp_last_update": "2023-01-21T04:56:58.441265+0000",
   "data": [
     {
       "discord_id": 776520842070720514,
@@ -25,9 +25,14 @@
     {
       "discord_id": 1066212981878308914,
       "discord_name": "Pabl0Escr0wBar#5623",
-      "address": "012338b54ba4625adcc313394d87819c",
+      "address": "2bfd96d8a674a360b733d16c65728d72",
       "twitter_handle": "",
-      "history": null,
+      "history": [
+        {
+          "address": "012338b54ba4625adcc313394d87819c",
+          "timestamp_end": "2023-01-21T04:56:58"
+        }
+      ],
       "is_active": 1
     }
   ]
