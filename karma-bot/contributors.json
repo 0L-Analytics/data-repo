@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-27T04:22:26.015436+0000",
+  "timestamp_last_update": "2023-01-27T04:23:24.984009+0000",
   "data": [
     {
       "discord_id": 1056906374237405265,
@@ -11,7 +11,7 @@
     {
       "discord_id": 776520842070720514,
       "discord_name": "Paulito#0564",
-      "address": null,
+      "address": "5f8ac83a9b3bf2eff20a6c16cd05c111",
       "history": null,
       "is_active": 1
     }
