@@ -1,4 +1,21 @@
 {
-  "timestamp_last_update": "2000-01-02T00:00:00.000000+0000",
-  "data": []
-} 
+  "timestamp_last_update": "2023-01-22T15:41:45.983883+0000",
+  "data": [
+    {
+      "discord_id": 776520842070720514,
+      "discord_name": "Paulito#0564",
+      "address": null,
+      "twitter_handle": null,
+      "history": null,
+      "is_active": 1
+    },
+    {
+      "discord_id": 1056906374237405265,
+      "discord_name": "Codilion#8380",
+      "address": "63bb13eba264f52ee3b47ac5dae02b13",
+      "twitter_handle": "@cobie",
+      "history": null,
+      "is_active": 1
+    }
+  ]
+}
