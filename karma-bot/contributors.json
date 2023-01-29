@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-27T04:23:24.984009+0000",
+  "timestamp_last_update": "2023-01-27T17:08:10.488285+0000",
   "data": [
     {
       "discord_id": 1056906374237405265,
@@ -12,6 +12,20 @@
       "discord_id": 776520842070720514,
       "discord_name": "Paulito#0564",
       "address": "5f8ac83a9b3bf2eff20a6c16cd05c111",
+      "history": null,
+      "is_active": 1
+    },
+    {
+      "discord_id": 908755876918214656,
+      "discord_name": "0xath#0954",
+      "address": null,
+      "history": null,
+      "is_active": 1
+    },
+    {
+      "discord_id": 890365466957201428,
+      "discord_name": "ricoflan#2022",
+      "address": null,
       "history": null,
       "is_active": 1
     }
