@@ -1,5 +1,5 @@
 {
-  "timestamp_last_update": "2023-01-27T17:08:10.488285+0000",
+  "timestamp_last_update": "2023-01-30T20:14:44.338678+0000",
   "data": [
     {
       "discord_id": 1056906374237405265,
@@ -25,6 +25,13 @@
     {
       "discord_id": 890365466957201428,
       "discord_name": "ricoflan#2022",
+      "address": null,
+      "history": null,
+      "is_active": 1
+    },
+    {
+      "discord_id": 723511365100240898,
+      "discord_name": "BCMO#2914",
       "address": null,
       "history": null,
       "is_active": 1
